@@ -66,6 +66,7 @@ Radar Chart
 Boxplots
 Cluster Comparison Charts
 📂 Project Structure
+
 Credit-Card-Customer-Segmentation/
 │
 ├── images/
@@ -89,7 +90,6 @@ Credit-Card-Customer-Segmentation/
 ├── Phase02_Build_Report_Week2.docx
 ├── Phase03-Alva_Rachel_Wilfred_Internship_Report.docx
 └── README.md
-⚙️ Data Preprocessing
 
 The following preprocessing steps were performed:
 
